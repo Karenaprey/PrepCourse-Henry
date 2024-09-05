@@ -1,2 +1,1 @@
-# PrepCourse-Henry
-Este es un repositorio de modulo2 del prepcourse de Henry
+Este es una prueba un rep y clonarlo de github a escr local
