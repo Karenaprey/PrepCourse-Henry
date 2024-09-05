@@ -1,1 +1,1 @@
-Este es una prueba un rep y clonarlo de github a escr local
+Este es una prueba de un rep y clonarlo de github a escritorio local
